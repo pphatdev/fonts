@@ -1,0 +1,14 @@
+
+/* Tacteng */
+@font-face {
+    font-family: 'Tacteing';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url("./fonts/TACTENG.TTF") format('woff2');
+}
+
+.font-tacteng {
+    font-family: "Tacteing";
+}
+
