@@ -64,4 +64,4 @@ const alphabets  = [
 ]
 
 const demo = document.querySelector('#demo')
-alphabets.map( element => demo.innerHTML += `<h1>${ element?.name }</h1>` )
+alphabets.map( element => demo.innerHTML += `<h1 class="border p-3 rounded-md">${ element?.name }</h1>` )
